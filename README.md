@@ -1,4 +1,4 @@
-# My first simple analytical project in Excel Web
+# Annual Budgeting Dashboard in Excel Web
 
 This is my first project in Data Analytics, which was completed in <b>Excel Online</b>. This version is limited, so some chart formatting and slicing features were not available. For this reason, I could not select the color scheme of the slicer and remove the borders in the charts. In any case, this is my first attempt at doing something and I have to start somewhere. Many thanks for the help of <a href="https://www.linkedin.com/in/chris-french-data/">Chris French</a>, who explained how to use the tools in Excel.
 
