@@ -7,7 +7,7 @@ This is my first project in Data Analytics, which was completed in <b>Excel Onli
 2. Next, based on this data, I created <b>PivotCharts: Income Streams, Saving Percentage, Expenses Pie Chart, Income, Expenses. </b> 
 3. Then I filled out the tables in the Dashboard tab using the functions <b>SUM, VLOOKUP, XLOOKUP</b>.
 4. Added 3 charts based on the created pivot tables.
-5. Added slicer using PivotTable Connections with Income_Chart, Saving_Percentage, Expenses_Pie_Chart
+5. Added <b>slicer</b> using PivotTable Connections with Income_Chart, Saving_Percentage, Expenses_Pie_Chart
 
 The first <b>Stacked Column Chart</b> shows income from different sources by month. 
 The second <b>Doughnut Chart</b> shows percentage of income and expenses for the year.
@@ -17,6 +17,6 @@ Using the <b>slicer</b> (by selecting the desired month or several), you can see
 I'm glad that I finally got acquainted with Excel and tried in practice tools that I had never heard of before. A start has been made, I continue to study further.
 
 
-I am attaching an Excel file with tables and an interactive dashboard and a PDF file for quick viewing.
+I am attaching an <b>Excel file</b> with tables and an interactive dashboard and a <b>PDF file</b> for quick viewing.
 
 
