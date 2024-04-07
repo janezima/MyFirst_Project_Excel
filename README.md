@@ -17,4 +17,6 @@ Using the <b>slicer</b> (by selecting the desired month or several), you can see
 I'm glad that I finally got acquainted with Excel and tried in practice tools that I had never heard of before. A start has been made, I continue to study further.
 
 
+I am attaching an Excel file with tables and an interactive dashboard and a PDF file for quick viewing.
+
 
