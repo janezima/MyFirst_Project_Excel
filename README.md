@@ -16,7 +16,8 @@ Using the <b>slicer</b> (by selecting the desired month or several), you can see
 
 I'm glad that I finally got acquainted with Excel and tried in practice tools that I had never heard of before. A start has been made, I continue to study further.
 
-
 I am attaching an <b>Excel file</b> with tables and an interactive dashboard and a <b>PDF file</b> for quick viewing.
 
+
+![t](https://github.com/janezima/MyFirst_Project_Excel/blob/5d3269cfe017fcc56a13d6551748856e6b386fd7/Screenshot%202024-04-07%20at%2020.11.28.png)
 
